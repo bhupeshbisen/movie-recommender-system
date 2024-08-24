@@ -1,9 +1,9 @@
 # movie-recommender-system
 
-Overview
+Overview:-
 The Movie Recommender System is an application designed to suggest movies to users based on their preferences. By analyzing user behavior, ratings, and movie attributes, the system provides personalized movie recommendations to enhance the user experience.
 
-Features
+Features:-
 Personalized Recommendations: Suggests movies tailored to individual user preferences.
 Collaborative Filtering: Recommends movies based on user similarities and historical data.
 Content-Based Filtering: Recommends movies similar to those a user has liked in the past.
@@ -19,7 +19,7 @@ Content-Based Filtering: Leverages metadata such as genre, director, and cast to
 Hybrid Approach: Combines both collaborative and content-based methods for better results.
 Recommendation Generation: Produces a list of movie recommendations personalized for each user.
 
-Usage
+Usage:-
 Search for Movies: Use the search feature to find specific movies.
 View Recommendations: See a list of movies recommended based on your preferences.
 Rate Movies: Provide ratings for movies to help improve the recommendation accuracy.
